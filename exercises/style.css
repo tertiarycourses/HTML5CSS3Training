@@ -1,0 +1,59 @@
+@media screen and (min-width:480px) {
+	body {
+		background-color:#F7DC6F;
+		background-image: url("tile.jpg");
+	}
+}
+body {
+	font-family: 'Covered By Your Grace', cursive;
+	color: #ff0000;
+	text-align: center;
+	margin-left:20px;
+	margin-right:20px;
+	background-color:#9B59B6
+}
+
+#circle1 {
+	width : 200px;
+	height : 200px;
+	border-radius: 20px;
+	background-color: #E67E22;
+}
+table {
+	border-style: solid;
+	border-width: 5px;
+	border-color: black;
+	width: 600px;
+}
+p {
+	font-size: 30px;
+	padding-top:5px;
+	padding-bottom:5px;
+/*	border-style: solid;
+	border-width: 5px;*/
+}
+
+h1 {
+
+	font-size: 50px;
+	font-weight:bold;
+	color:blue;
+}
+
+.alert {
+
+	color:red;
+}
+
+h1.alert {
+	color:green;
+	font-style: italic;
+}
+
+.warning {
+	background-color: yellow;
+}
+
+#address {
+	font-style: italic;
+}

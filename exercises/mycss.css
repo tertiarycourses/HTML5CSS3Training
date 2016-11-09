@@ -1,0 +1,90 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body {
+	color: rgb(0, 0, 255);
+	font-size: 20px;
+	font-family: 'Open Sans', sans-serif;
+	/*
+	background-color: lightblue;
+	background-image: url("border.png");
+	background-repeat: repeat-x;
+	*/
+}
+
+a:link {
+    color: red;
+    text-decoration: underline;
+}
+a:visited {
+    color: green;
+}
+a:hover {
+    color: hotpink;
+}
+a:active {
+    color: blue;
+}
+
+
+
+.tableclass {
+
+	border: 10px solid black;
+	width:100%;
+}
+
+.tableclass td {
+    height: 50px;
+    vertical-align: bottom;
+}
+
+
+.p1 {
+	color: darkcyan;
+	font-size; 20px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: normal;
+	text-align: center;
+	text-transform: lowercase; 
+	text-decoration: underline;
+	letter-spacing:5px;
+
+}
+
+.p2 {
+	color: darkorchid;
+	font-size; 30px;
+	font-family: Arial;
+	font-weight:bold;
+	text-align; right: 
+	text-transform: none;
+	text-decoration: none;
+	letter-spacing:10px;
+
+}
+/*
+div p span {
+	color: red;
+}
+
+
+.amos p {
+	color: yellow;
+}
+
+h1, h2, p {
+    text-align: center;
+    color: red;}
+*/
+/*
+h1 {
+    text-align: center;
+    color: red;}
+h2 {
+    text-align: center;
+    color: red;}
+p {
+    text-align: center;
+    color: red;}
+
+*/
