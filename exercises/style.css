@@ -1,9 +1,9 @@
 body {
 	background-color: white;
-/*	background-image: url("header.jpg");
+	background-image: url("header.jpg");
 	background-repeat: no-repeat;
 	background-position: top right;
-	background-size: 100%;*/
+	background-size: 100%;
 }
 
 @media screen and (min-width:480px) {
