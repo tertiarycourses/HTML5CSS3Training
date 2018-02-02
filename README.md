@@ -1,5 +1,5 @@
 # HTML5 and CSS3 Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [HTML5 and CSS3 Essential Training](https://www.tertiarycourses.com.sg/html5-css3-essential-training-courses-in-singapore.html) course. 
 
